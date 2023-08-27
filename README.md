@@ -1,4 +1,4 @@
-## My Study Project - Budget Calculator
+## Study Project - Budget Calculator
 
 - This page calculates the budget per month [watch here] (https://ktrntaranova.github.io/budget-calculator/)
 - App shows income and expenses per month
